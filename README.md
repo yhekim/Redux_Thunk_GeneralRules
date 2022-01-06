@@ -1,5 +1,9 @@
 # Redux Nedir, Nasil Uygulanir Projesi
 
+## Description
+
+![gif](https://raw.githubusercontent.com/yhekim/Redux_Thunk_GeneralRules/main/redux.gif)
+
 ## `Kurulum`
 Bos bir klasor olusturun ve klasor adini, projeye vereceginiz isim ile isimlendirin.
 
